@@ -8,6 +8,6 @@ useful.
 This is a simple script that I wrote to "transcribe" the text in the screenshots into a text file. To make it work, install the relevant modules, 
 set the values of `folder_pathname` and `textfile_pathname` to the pathname of the folder in which the screenshots are located and of the blank text file
 in which you want the text to be stored, respectively. The gist of the script is that it iterates over the files in the folder, inputs them into the 
-`image_to_string` function and adds the text obtained to the text file. In the text files, the tweets are numbered and a string informing of the progress 
+`image_to_string`, function and adds the text obtained to the text file. In the text files, the tweets are numbered and a string informing of the progress 
 is output.
 
