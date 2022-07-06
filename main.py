@@ -3,7 +3,7 @@ import pytesseract
 from PIL import Image
 
 folder_pathname = '/Users/lluissalvat/Desktop/TwitterScreenshots'
-textfile_pathname = '/Users/lluissalvat/Downloads/prova.txt'
+textfile_pathname = '/Users/lluissalvat/Downloads/TextFromScreenshots.txt'
 
 mylist = os.listdir(folder_pathname)
 
